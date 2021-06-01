@@ -1,16 +1,13 @@
-### Hi there 👋
+- 👋 Hey there, I'm Prashant Bhandari :computer: !!!Techno geek!!!
+- 🌱 I am currently learning Natural Language Processing
+- .. I am interested in Python and AI,Machine learning
+- 🔭 Working as a R&D intern in Javra Software B.V.
+- :heartbeat: :heartbeat: Love to collaborate for research work in AI especially NLP and Computer Vision
+- 📄 Graduating in 2021 with Bachelor of Engineering in Computer Science 
 
-<!--
-**prashant3286/prashant3286** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/prashant-bhandari-b0287a144/) :nepal:
+- (pbcreative1998@gmail.com) :email:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
