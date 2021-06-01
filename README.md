@@ -7,7 +7,7 @@
 
 
 ### Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/prashant-bhandari-b0287a144/) :nepal:
+- [LinkedIn](https://www.linkedin.com/in/prashant-bhandari-b0287a144/) 🇳🇵
 - (pbcreative1998@gmail.com) :email:
 
 
