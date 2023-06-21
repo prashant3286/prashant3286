@@ -1,7 +1,6 @@
 - 👋 Hey there, I'm Prashant Bhandari :computer: !!!Techno geek!!!
 - 🔭 Worked as a R&D Engineer in Javra Software B.V.
 - Worked as an Software Engineer in [CloudFactory](https://www.cloudfactory.com)
-- :heartbeat: :heartbeat: Love to collaborate for research work in Data Science
 - 📄 Graduated in 2021 with Bachelor of Engineering in Computer Science 
 
 
