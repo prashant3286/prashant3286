@@ -1,7 +1,7 @@
 - 👋 Hey there, I'm Prashant Bhandari :computer: !!!Tech Freak!!!
--  Working as an Software Engineer-II in [SecurityPal](https://www.securitypalhq.com)
--  Worked as an Software Engineer in [CloudFactory](https://www.cloudfactory.com)
-- 🔭 Worked as a R&D Engineer in [Javra Software B.V.](https://javra.com/)
+-  Working as a Software Engineer-II in [SecurityPal](https://www.securitypalhq.com)
+-  Worked as a Software Engineer in [CloudFactory](https://www.cloudfactory.com)
+- 🔭 Worked as  R&D Engineer in [Javra Software B.V.](https://javra.com/)
 
 - 📄 Graduated in 2021 with Bachelor of Engineering in Computer Science 
 
